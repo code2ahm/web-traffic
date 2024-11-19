@@ -1,2 +1,14 @@
-# web-traffic
-This project simulates website traffic by programmatically visiting and reloading a website using Python and the Playwright library. It's designed to generate fake traffic for a website, which can be used for testing purposes (e.g., checking website performance under load).
+# Website Traffic Simulator
+
+This is a simple Python script that simulates traffic to a website using the Playwright library.
+
+## Requirements
+
+- Python 3.x
+- Playwright library (install using `pip install playwright`)
+
+## How to Use
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/code2ahm/web-traffic.git

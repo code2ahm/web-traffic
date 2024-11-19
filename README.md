@@ -4,7 +4,7 @@ This is a simple Python script that simulates traffic to a website using the Pla
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12.5
 - Playwright library (install using `pip install playwright`)
 
 ## How to Use
